@@ -1,0 +1,17 @@
+﻿  HangManFunctions.cpp
+C:\Users\danie\Desktop\BE\StringArrProject\HangMan\HangMan\HangManFunctions.cpp(187,18): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\danie\Desktop\BE\StringArrProject\HangMan\HangMan\HangManFunctions.cpp(188,18): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\danie\Desktop\BE\StringArrProject\HangMan\HangMan\HangManFunctions.cpp(204,18): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\danie\Desktop\BE\StringArrProject\HangMan\HangMan\HangManFunctions.cpp(205,18): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\danie\Desktop\BE\StringArrProject\HangMan\HangMan\HangManFunctions.cpp(206,18): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\danie\Desktop\BE\StringArrProject\HangMan\HangMan\HangManFunctions.cpp(207,18): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\danie\Desktop\BE\StringArrProject\HangMan\HangMan\HangManFunctions.cpp(208,18): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\danie\Desktop\BE\StringArrProject\HangMan\HangMan\HangManFunctions.cpp(255,13): warning C4551: function call missing argument list
+C:\Users\danie\Desktop\BE\StringArrProject\HangMan\HangMan\HangManFunctions.cpp(262,26): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\danie\Desktop\BE\StringArrProject\HangMan\HangMan\HangManFunctions.cpp(267,26): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\danie\Desktop\BE\StringArrProject\HangMan\HangMan\HangManFunctions.cpp(273,26): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\danie\Desktop\BE\StringArrProject\HangMan\HangMan\HangManFunctions.cpp(278,26): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\danie\Desktop\BE\StringArrProject\HangMan\HangMan\HangManFunctions.cpp(284,26): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\danie\Desktop\BE\StringArrProject\HangMan\HangMan\HangManFunctions.cpp(221,10): warning C4101: 'playerChar': unreferenced local variable
+C:\Users\danie\Desktop\BE\StringArrProject\HangMan\HangMan\HangManFunctions.cpp(103): warning C4715: 'DrawNoose': not all control paths return a value
+  HangMan.vcxproj -> C:\Users\danie\Desktop\BE\StringArrProject\HangMan\Debug\HangMan.exe
